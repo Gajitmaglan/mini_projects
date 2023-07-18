@@ -1,0 +1,4 @@
+.placeholder-light textarea::placeholder, .placeholder-light input::placeholder {
+    color: white;
+    opacity: 0.5;
+}

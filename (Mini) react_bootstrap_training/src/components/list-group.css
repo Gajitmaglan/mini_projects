@@ -1,0 +1,13 @@
+.myList {
+  width: 30%;
+  margin: auto;
+}
+
+.highlight-on-hover {
+    cursor: "default";
+    user-select: none;
+  }
+
+.highlight-on-hover:hover {
+  background-color: white;
+}
